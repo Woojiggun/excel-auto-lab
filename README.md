@@ -44,3 +44,5 @@ This repository contains an experimental tool developed with PowerShell to autom
 This project was initiated to reduce repetitive manual work in reporting processes.
 It aims to optimize workflows, minimize human error, and improve productivity through automation.
 
+📌 Note: Full source code is not publicly available due to internal use cases.  
+Key logic or demo may be shared upon request.
